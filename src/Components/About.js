@@ -9,7 +9,7 @@ const About = () =>{
             <img src={img} alt="wealth"/>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Labore quaerat aperiam ut veritatis voluptas, quae rem ipsam officia, 
-                voluptatibus cum commodi quibusdam accusantium nemo. Tempora ea id sunt quasi ut?
+                voluptatibus cum commodi quibusdam accusantium nemo. hai gb Tempora ea id sunt quasi ut?
             </p>
         </div>
     )
